@@ -13,7 +13,7 @@ function isOperator(value) {
 }
 
 function clearDisplay() {
-    display.value = ''; // nu
+    display.value = ''; // numbness
 }
 
 function deleteLast() {
