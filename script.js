@@ -13,7 +13,7 @@ function isOperator(value) {
 }
 
 function clearDisplay() {
-    display.value = '';
+    display.value = ''; // nu
 }
 
 function deleteLast() {
