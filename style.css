@@ -15,7 +15,7 @@ body {
     width: 320px;
 }
 #display {
-    width: calc(100% - 22px); /* Account for padding */
+    width: calc(100% - 22px); /* Account for paddings */
     padding: 10px;
     font-size: 2.5em;
     text-align: right;
